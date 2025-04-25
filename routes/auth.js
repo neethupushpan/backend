@@ -1,5 +1,5 @@
 import express from 'express';
-const bcrypt = require('bcryptjs');
+
 
 import bcrypt from "bcryptjs";
 import jwt from 'jsonwebtoken';
